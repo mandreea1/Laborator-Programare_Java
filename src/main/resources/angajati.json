@@ -1,0 +1,32 @@
+[
+  {
+    "nume": "Ion",
+    "postul": "muncitor",
+    "data_angajarii": "2024-06-30",
+    "salariul": 450.4
+  },
+  {
+    "nume": "Andreea",
+    "postul": "it-st",
+    "data_angajarii": "2024-08-12",
+    "salariul": 2600
+  },
+  {
+    "nume": "Dan",
+    "postul": "director",
+    "data_angajarii": "2021-01-11",
+    "salariul":3000
+  },
+  {
+    "nume": "David",
+    "postul": "sef 1",
+    "data_angajarii": "2024-04-24",
+    "salariul":1050.50
+  },
+  {
+    "nume": "Ioana",
+    "postul": "constructor",
+    "data_angajarii": "2019-09-01",
+    "salariul":2000
+  }
+]
